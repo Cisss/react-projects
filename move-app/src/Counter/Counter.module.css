@@ -1,0 +1,11 @@
+.wrapper {
+    width: 100%;
+    text-align: center;
+}
+.title {
+    margin-bottom: 10px;
+}
+
+.buttonCounter:first-of-type {
+    margin-right: 10px;
+}

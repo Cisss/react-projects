@@ -1,0 +1,22 @@
+.wrapper {
+    margin: 30px 20px;
+}
+
+.listItem {
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+.subListItem {
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+.subList {
+    margin: 10px 14px;
+}
+
+.list {
+    margin: 40px;
+}

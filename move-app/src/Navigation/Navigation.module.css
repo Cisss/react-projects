@@ -1,0 +1,26 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    color: #0276ae;
+}
+
+.logo {
+    display: flex;
+    flex: 1;
+    margin-bottom: -13px;
+
+}
+
+.title {
+    flex: 1;
+    text-align: center;
+}
+
+.navButton {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}

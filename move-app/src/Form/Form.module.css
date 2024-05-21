@@ -1,0 +1,20 @@
+.item {
+    display: block;
+    height: 30px;
+    width: 500px;
+    padding: 5px;
+    margin: 10px 0;
+    /* color: #0276ae; */
+}
+
+.wrapper {
+    display: block;
+    width: 500px;
+    margin: 100px auto;
+}
+
+.button {
+    display: block;
+    width: fit-content;
+    margin-left: auto;
+}

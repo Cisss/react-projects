@@ -1,0 +1,3 @@
+Game was won in 9 attempts
+Game was won in 8 attempts
+./ attempts
